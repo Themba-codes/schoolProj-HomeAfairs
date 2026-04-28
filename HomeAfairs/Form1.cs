@@ -89,7 +89,7 @@ namespace HomeAfairs
 
             DateTime now = DateTime.Now;
 
-            string profile = $"==== Citizen Profile ====\r\n" +
+            string profile = $"==== DIGITAL CITIZEN SUMMARY ====\r\n" +
                              $"Name: {currentProfile.FullName}\r\n" +
                              $"ID Number: {currentProfile.IDNumber}\r\n" +
                              $"Age: {currentProfile.Age}\r\n" +
